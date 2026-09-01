@@ -107,7 +107,7 @@ Accuracy + Confusion Matrix
 Clone the repository:
 
 ```bash
-git clone https://github.com/Vedline2547/Nive-bayes.git
+git clone https://github.com/Vedline2547/Naive-bayes.git
 ```
 
 Navigate to the project directory:
